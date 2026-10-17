@@ -1,6 +1,6 @@
 <!-- ==================== ANIMATED HERO BANNER ==================== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,35:0f172a,70:1e3a8a,100:06b6d4&height=230&section=header&text=Nebin%20Siby%20Sam&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20Machine%20Learning%20Engineer%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20Full-Stack%20Developer&descAlignY=58&descSize=18" width="100%" alt="Nebin Siby Sam Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:090d16,35:0f172a,70:1e3a8a,100:06b6d4&amp;height=230&amp;section=header&amp;text=Nebin%20Siby%20Sam&amp;fontSize=54&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=AI%20%26%20Machine%20Learning%20Engineer%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20Full-Stack%20Developer&amp;descAlignY=58&amp;descSize=18" width="100%" alt="Nebin Siby Sam Banner" />
 
   <!-- Dynamic Typing Animation -->
   <a href="https://github.com/sibysam">
